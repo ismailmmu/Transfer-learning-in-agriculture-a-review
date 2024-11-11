@@ -39,12 +39,18 @@ Our review highlights the following key insights and findings:
 - **Insight 3**: Description of third insight.
 
 These insights reveal [observations, trends, or findings] and contribute to a deeper understanding of [Field].
-## Some important figures 
-Below are some figures of our review:
-### Figure 2: RISMA flow diagram for articles selection process. 
-![RISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708660/Prisma.pdf))
+## Figures and Visualizations
+Below are some figures that illustrate our taxonomy and key findings:
+
+### Figure 1: Overview of [Framework/Taxonomy]
+![Overview of Framework]([Prisma.pdf](https://github.com/user-attachments/files/17708828/Prisma.pdf)
+path-to-image-1)
+
+### Figure 2: Trends and Analysis in [Specific Topic]
+![Trends and Analysis](path-to-image-2)
 
 *Note: All figures are available in the `figures/` folder.*
+
 
 ## Future Directions
 We identify several research gaps and future directions for advancing this field:
