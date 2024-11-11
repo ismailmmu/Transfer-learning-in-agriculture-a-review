@@ -42,7 +42,7 @@ These insights reveal [observations, trends, or findings] and contribute to a de
 ## Some important figures 
 Below are some figures of our review:
 ### Figure 2: RISMA flow diagram for articles selection process. 
-[RISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708660/Prisma.pdf))
+![RISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708660/Prisma.pdf))
 
 *Note: All figures are available in the `figures/` folder.*
 
