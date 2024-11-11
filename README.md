@@ -41,8 +41,7 @@ Our review highlights the following key insights and findings:
 These insights reveal [observations, trends, or findings] and contribute to a deeper understanding of [Field].
 
 ### Figure 2: RISMA flow diagram for articles selection process. 
-![RISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708660/Prisma.pdf)
-age-2)
+[RISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708660/Prisma.pdf))
 
 *Note: All figures are available in the `figures/` folder.*
 
