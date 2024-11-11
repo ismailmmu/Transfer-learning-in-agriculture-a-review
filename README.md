@@ -42,8 +42,8 @@ These insights reveal [observations, trends, or findings] and contribute to a de
 ## Figures and Visualizations
 Below are some figures that illustrate our taxonomy and key findings:
 
-### Figure 1: Overview of [Framework/Taxonomy]
-![Overview of Framework]([Prisma.pdf](https://github.com/user-attachments/files/17708828/Prisma.pdf)
+### Figure 1: Methodology
+![PRISMA flow diagram for articles selection process.]([Prisma.pdf](https://github.com/user-attachments/files/17708828/Prisma.pdf)
 path-to-image-1)
 
 ### Figure 2: Trends and Analysis in [Specific Topic]
