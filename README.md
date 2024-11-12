@@ -2,16 +2,18 @@
 A Comprehensive Review on [Research Topic] in [Field].
 
 ## Table of Contents
-- [Latest Paper](#latest-paper)
+<!--- [Latest Paper](#latest-paper)->
 - [Abstract](#abstract)
-- [Introduction](#introduction)
-- [Taxonomy/Framework](#taxonomyframework)
+<!--- [Introduction](#introduction)->
+<!--- [Taxonomy/Framework](#taxonomyframework)->
 - [Key Insights](#key-insights)
 - [Figures and Visualizations](#figures-and-visualizations)
-- [Future Directions](#future-directions)
+<!--- [Future Directions](#future-directions)->
 - [Citation](#citation)
 - [Supplementary Material](#supplementary-material)
-
+<!--
+Thank you to the reviewers for their constructive feedback. All comments have been addressed and incorporated into the revised version of the paper.
+-->
 ---
 
 ## Latest Paper
