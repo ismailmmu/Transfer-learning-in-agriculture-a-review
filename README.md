@@ -9,7 +9,7 @@ A systematic review.
 
 
 ## Latest Paper
-[Our latest full paper paper is under revision in Artificial Intelligence Review Journal. We will upload it here once accepted](link-to-paper).  
+[Our latest full paper paper: https://link.springer.com/article/10.1007/s10462-024-11081-x ](link-to-paper).  
 For any questions or discussions, please feel free to open an issue or contact ismailmmu@gmail.com.
 
 ## Abstract
@@ -201,16 +201,17 @@ Classification of growth conditions in paprika leaf using deep neural network an
 
 
 ## Citation
-If you find this review useful, please consider citing us:
+If you find this review useful, please cite the following paper:
 
 ### BibTeX
 ```bibtex
-@article{yourcitationkey,
-  title = {Transfer learning in agriculture: a review},
-  author = {Md Ismail Hossen, Mohammad Awrangjeb, Shirui Pan, Abdullah Al Mamun},
-  journal = {Artificial Intelligence Review},
-  year = {Year},
-  volume = {Volume Number},
-  pages = {Page Numbers},
-  doi = {DOI link}
+@article{hossen2025transfer,
+  title={Transfer learning in agriculture: a review},
+  author={Hossen, Md Ismail and Awrangjeb, Mohammad and Pan, Shirui and Mamun, Abdullah Al},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={4},
+  pages={97},
+  year={2025},
+  publisher={Springer}
 }
